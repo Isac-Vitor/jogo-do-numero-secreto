@@ -15,7 +15,7 @@
 | [<img loading="lazy" src="https://avatars.githubusercontent.com/u/33001620?v=4" width=115><br><sub>Gabrielle Ribeiro</sub>](https://github.com/gabrielle-ribeiro) |  [<img loading="lazy" src="https://avatars.githubusercontent.com/u/522931?v=4" width=115><br><sub>Rodrigo Caneppele</sub>](https://github.com/rcaneppele) |
 | :---: | :---: |
 
-# Estutante que utilizou o código
+# Estudante que reutilizou o código
 
 | [<img loading="lazy" src="https://avatars.githubusercontent.com/u/219208466?v=4" width=115><br><sub>Isac Vitor</sub>](https://github.com/Isac-Vitor) |
 | :---: | 
