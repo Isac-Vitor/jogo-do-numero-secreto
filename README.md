@@ -18,4 +18,4 @@
 # Estutante que utilizou o código
 
 | [<img loading="lazy" src="https://avatars.githubusercontent.com/u/219208466?v=4" width=115><br><sub>Isac Vitor</sub>](https://github.com/Isac-Vitor) |
-| :---: | :---: |
+| :---: | 
